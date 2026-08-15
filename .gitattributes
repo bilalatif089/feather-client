@@ -1,0 +1,13 @@
+# Exclude build artifacts
+# Do not edit manually
+*.gif binary
+yarn.lock linguist-generated
+node_modules/* linguist-vendored
+*.ts linguist-detectable
+*.yaml linguist-detectable=false
+*.jpeg binary
+go.sum linguist-generated
+public/index.html linguist-vendored  
+*.png binary
+*.tsx linguist-detectable
+# eof bb1f6a98
